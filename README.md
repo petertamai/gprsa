@@ -236,6 +236,6 @@ This project is licensed under the MIT License.
 GitHub automation, repository setup, Git initialization, Python script, Node.js projects, developer workflow, project management, version control, .gitignore management, GitHub API
 
 ---
-Credits: [https://bizigniter.io](https://bizigniter.io)
+Credits: [https://petertam.pro](https:/petertam.pro)
 Happy coding! 🎉
 
